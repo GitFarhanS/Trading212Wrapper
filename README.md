@@ -1,2 +1,2 @@
-# Trading212Wrapper
-a wrapper for t212
+# Trading212Tracker
+a Tracker for t212
